@@ -8,6 +8,7 @@ featuredImage: "/images/2022/09/05/welcome.webp"
 featuredImagePreview: "/images/2022/09/05/welcome.webp"
 tags: ["Welcome"]
 categories: ["Welcome"]
+toc: false
 ---
 
 Welcome to VirtualHub Screenshots! Here we will post multiple screenshots of the Operating Systems and other software we install.
