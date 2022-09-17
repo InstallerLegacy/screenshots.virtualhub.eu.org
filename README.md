@@ -1,7 +1,7 @@
-# VirtualHub Setup
+# VirtualHub Screenshots
 
-Welcome to VirtualHub Setup! Here we will setup our system in order to follow the VirtualHub tutorials.
+Welcome to VirtualHub Screenshots! Here we will post multiple screenshots of the Operating Systems and other software we install.
 
-So, what are we going to do? First we will install Kubuntu to dual-boot with Windows. You can escape this step if you are already on a Linux system. If you don’t know what Kubuntu or Linux is, don’t worry, I will explain everything.
+But, we also have screenshots on the main [VirtualHub website](https://www.virtualhub.eu.org), so why a new site? The answer is that I am limited on the number of screenshots I can add to a tutorial while leaving it readable. A software cannot be done away with 6-7 screenshots. So, I have created this separate website to only store screenshots.
 
-Then we will install several software for working with the tutorials posted on [VirtualHub](https://virtualhub.eu.org).
+Stay tuned!
