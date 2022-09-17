@@ -468,11 +468,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # giscus comment config (https://giscus.app/)
       [params.page.comment.giscus]
         # You can refer to the official documentation of giscus to use the following configuration.
-        enable = false
+        enable = true
         repo = "InstallerLegacy/screenshots.virtualhub.eu.org"
-        repoId = "R_kgDOH8PqbA"
+        repoId = "R_kgDOIA3JOw"
         category = "Comments"
-        categoryId = "DIC_kwDOH8PqbM4CRPfJ"
+        categoryId = "DIC_kwDOIA3JO84CRe4F"
         # automatically adapt the current theme i18n configuration when empty
         lang = "en"
         mapping = "pathname"
