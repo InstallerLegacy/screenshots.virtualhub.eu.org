@@ -29,9 +29,9 @@ I have uploaded the image here - [...]
 **WinWorldPC link**
 If the software is available on WinWorldPC, then please give the link to it.
 
-**How did you got the screenshot?**
+**How did you get the screenshot?**
 - [ ] I took the screenshot myself.
 - [ ] I downloaded it from [...]
 
 **Any additional information**
-Any other info you want to provide.
+Any other info you want to provide?
