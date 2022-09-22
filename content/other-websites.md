@@ -13,7 +13,7 @@ comment:
 {{< /admonition >}}
 
 {{< admonition tip "VirtualHub Setup" true >}}
-<https://setup.virtualhub.eu.org> - Set up you system for VirtualHub.
+<https://setup.virtualhub.eu.org> - Set up your system for VirtualHub.
 {{< /admonition >}}
 
 {{< admonition tip "VirtualHub DOSBox-X" true >}}
