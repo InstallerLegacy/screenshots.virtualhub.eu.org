@@ -1,5 +1,5 @@
 ---
-title: "About VirtualHub"
+title: "About VirtualHub Screenshots"
 description: "Learn more about VirtualHub Screenshots: The repository of screenshots of old operating systems in different VMs and emulators."
 date: 2023-02-27T16:23:18+05:30
 lastmod: 2023-02-27T16:23:18+05:30
