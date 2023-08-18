@@ -22,7 +22,6 @@ weight: 110002
   </div>
 </section>
 
-
 {{< gallery >}}
   {{< figure src="/1960s/1965/4kdms/4K-DMS-1.webp" alt="List of files (1)" caption="List of files (1)" >}}
   {{< figure src="/1960s/1965/4kdms/4K-DMS-2.webp" alt="List of files (2)" caption="List of files (2)" >}}

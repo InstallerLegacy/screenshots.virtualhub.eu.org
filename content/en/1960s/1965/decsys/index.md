@@ -22,7 +22,6 @@ weight: 110001
   </div>
 </section>
 
-
 {{< gallery >}}
   {{< figure src="/1960s/1965/decsys/DECSys-7-1.webp" alt="List of files (1)" caption="List of files (1)" >}}
   {{< figure src="/1960s/1965/decsys/DECSys-7-2.webp" alt="List of files (2)" caption="List of files (2)" >}}
