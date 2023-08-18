@@ -1,4 +1,11 @@
-If you are contributing a screenshot, full the following information:
+---
+name: Screenshot Contribution
+about: Contribute a screenshot to this project
+title: "[CONTRIBUTION]"
+labels: contribution
+assignees: pulkitkrishna00
+
+---
 
 ## Checklist
 
@@ -8,7 +15,10 @@ If you are contributing a screenshot, full the following information:
 - [ ] I confirm that the license of the image is compatible with [CC BY-NC-SA  4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 - [ ] Once again: I confirm that the license of the image is compatible with [CC BY-NC-SA  4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-## Info about the screenshot
+## Screenshot
+
+**Link to the Screenshot**
+I have uploaded the image here - [...]
 
 **Some information about the software**
 
