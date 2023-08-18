@@ -5,23 +5,28 @@ to the VirtualHub Screenshots website. If you contribute to this
 project, you contribute to the large effort of conserving old
 software.
 
-You are welcome to contribute more screenshots of software already published on the website and screenshots of new software
-which you have taken yourself or that you found on the web and that it is compatible with
-[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+VirtualHub Screenshots is a continuous project. Its goal is to provide
+screenshots of old Operating Systems and other old
+software on Virtual Machines and emulators.
 
-DO NOT ADD SCREENSHOTS FOR WHICH YOU DO NOT HAVE APPROPRIATE
-RIGHTS.
+I will probably create most of the screenshots here myself in
+the order of their release, but you may want to see a screenshots
+sooner or I may have forgotten some software. In that case,
+you may use
+[GitHub Issues](https://github.com/InstallerLegacy/virtualhub.eu.org/issues)
+to ask for a specific tutorial.
 
-You can either open a pull request to contribute if you know
-Hugo and git. If you don't, you can upload it somewhere,
-preferably the
-[GitHub Wiki](https://github.com/InstallerLegacy/screenshots.virtualhub.eu.org/wiki),
-and open an [issue](https://github.com/InstallerLegacy/screenshots.virtualhub.eu.org/issues)
-with the link. If you are not comfortable with opening an issue,
-send the link to me at
+You may want to report errors in the existing articles.
+You can use [GitHub Issues](https://github.com/InstallerLegacy/virtualhub.eu.org/issues)
+for that also. If you know enough about Hugo and Doks to make an edit
+yourself then you are welcome to fork, make the edit and open
+a pull request.
+
+If you have enough knowledge of Hugo, Doks and installing old
+Operating Systems in Virtual Machines or Emulators, you can
+contribute a screenshots by creating a pull request. You will be
+given appropriate credits. If you have any questions, you can
+contact me at
 [contact@virtualhub.eu.org](mailto:contact@virtualhub.eu.org).
-
-If you have found a mistake, then also you can open a GitHub
-issue.
 
 Thank You once again for showing interest in this project.
