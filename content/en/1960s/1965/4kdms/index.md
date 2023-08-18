@@ -5,7 +5,7 @@ date: 2023-03-23T10:08:56+05:30
 draft: false
 images: [4K-DMS-1.webp]
 type: docs
-weight: 110002
+weight: 100002
 ---
 
 {{< load-photoswipe >}}

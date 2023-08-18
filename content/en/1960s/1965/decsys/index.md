@@ -5,7 +5,7 @@ date: 2023-03-23T10:08:56+05:30
 draft: false
 images: [DECSys-7-1.webp]
 type: docs
-weight: 110001
+weight: 100001
 ---
 
 {{< load-photoswipe >}}
