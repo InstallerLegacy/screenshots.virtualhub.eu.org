@@ -3,7 +3,7 @@ title: "! PDP7 Unix"
 description: "! PDP7 Unix was an operating system for the DEC PDP-7 computer. It is the earliest available Unix version to be able run in an emulator."
 date: 2023-08-22T09:08:56+05:30
 draft: false
-images: [pdp7unix.webp]
+images: [pdp7unix-1.webp]
 type: docs
 weight: 110000
 ---
