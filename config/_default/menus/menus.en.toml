@@ -1,7 +1,22 @@
 [[main]]
+  name = "Operating Systems"
+  weight = 10
+  url = "/1960s/"
+  identifier = "os"
+
+[[main]]
   name = "1960s"
   url = "/1960s/"
-  weight = 10
+  weight = 11
+  identifier = "1960s"
+  parent = "os"
+
+[[main]]
+  name = "1970s"
+  url = "/1970s/"
+  weight = 12
+  identifier = "1970s"
+  parent = "os"
 
 [[main]]
   name = "About"
