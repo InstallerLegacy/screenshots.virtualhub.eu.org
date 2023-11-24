@@ -3,7 +3,7 @@ title: "! DOS-15"
 description: "! DOS-15 was an operating system for the DEC PDP-715 computer. We can run it in the SIMH PDP-15 emulator."
 date: 2023-11-24T09:08:56+05:30
 draft: false
-images: [adss-15-2.webp]
+images: [dos-15-4.webp]
 type: docs
 weight: 140000
 ---
