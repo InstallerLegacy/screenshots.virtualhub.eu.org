@@ -1,5 +1,5 @@
 [[main]]
-  name = "Operating Systems"
+  name = "OSs"
   weight = 10
   url = "/1960s/"
   identifier = "os"
@@ -26,24 +26,30 @@
 
 [[main]]
   name = "About VirtualHub Screenshots"
-  weight = 50
+  weight = 41
   url = "/about/"
   identifier = "aboutvh"
   parent = "about"
 
 [[main]]
   name = "Our Other Websites"
-  weight = 60
+  weight = 42
   url = "/other-websites/"
   identifier = "other-websites"
   parent = "about"
 
 [[main]]
   name = "Contact"
-  weight = 70
+  weight = 43
   url = "/contact/"
   identifier = "contact"
   parent="about"
+
+[[main]]
+  name = "Chat"
+  weight = 50
+  url = "https://chat.virtualhub.eu.org"
+  identifier = "chat"
 
 [[social]]
   name = "GitHub"

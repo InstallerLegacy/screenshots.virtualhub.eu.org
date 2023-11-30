@@ -58,3 +58,12 @@ images: []
       <button class="green-button" type="submit" id="btnSubmit">Submit</button>
   </div>
 </form>
+
+<div class="text-center">
+  <p>You can also chat with us on Discord:</p>
+  <p>
+    <a href="https://chat.virtualhub.eu.org">
+      <img src="https://discordapp.com/api/guilds/1176107431013646357/widget.png?style=banner2" alt="Discord Banner"/>
+    </a>
+  </p>
+</div>

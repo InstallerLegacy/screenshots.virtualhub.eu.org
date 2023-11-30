@@ -17,6 +17,15 @@ Visit [VirtualHub Blog](https://virtualhub.eu.org/blog) to know more about the f
 
 <br>
 
+<div class="text-center container">
+  <p>We love to chat with people who love old software. Come join us on discord:</p>
+  <p>
+    <a href="https://chat.virtualhub.eu.org">
+      <img src="https://discordapp.com/api/guilds/1176107431013646357/widget.png?style=banner2" alt="Discord Banner"/>
+    </a>
+  </p>
+</div>
+
 VirtualHub Screenshots is part of VirtualHub group of websites. To lear about out other websites, see [this page](/other-websites).
 
 We publish different screenshots of old operating systems and other software, so that you can live through the history of computing easily.

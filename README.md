@@ -5,6 +5,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f24d6823-fe06-4580-b775-19ad87572549/deploy-status)](https://app.netlify.com/sites/virtualhub-screenshots/deploys)
 [![CodeQL](https://github.com/InstallerLegacy/screenshots.virtualhub.eu.org/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/InstallerLegacy/screenshots.virtualhub.eu.org/actions/workflows/codeql-analysis.yml)
 [![Hyas CI](https://github.com/InstallerLegacy/screenshots.virtualhub.eu.org/actions/workflows/node.js-ci.yml/badge.svg)](https://github.com/InstallerLegacy/screenshots.virtualhub.eu.org/actions/workflows/node.js-ci.yml)
+[![Discord](https://discordapp.com/api/guilds/1176107431013646357/widget.png?style=shield)](https://chat.virtualhub.eu.org)
 
 <p align="center">Welcome to VirtualHub Screenshots! Here we will post multiple screenshots of the Operating Systems and other software we install.</p>
 
