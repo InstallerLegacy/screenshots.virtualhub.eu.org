@@ -24,5 +24,5 @@ weight: 120000
 
 {{< gallery >}}
   {{< figure src="/1970s/1970/caps-11/caps-11-1.webp" alt="! CAPS-11 on a PDP-11 emulator" caption="! CAPS-11 on a PDP-11 emulator" >}}
-  {{< figure src="/1970s/1970/caps-11/caps-11-2.webp" alt="List of files in CAPS-11" caption="List of files in ! CAPS-11" >}}}
+  {{< figure src="/1970s/1970/caps-11/caps-11-2.webp" alt="List of files in CAPS-11" caption="List of files in ! CAPS-11" >}}
 {{< /gallery >}}
