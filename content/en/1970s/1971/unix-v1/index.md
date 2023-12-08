@@ -5,7 +5,7 @@ date: 2023-08-22T09:08:56+05:30
 draft: false
 images: [unix-v1-2.webp]
 type: docs
-weight: 110000
+weight: 210000
 ---
 
 {{< load-photoswipe >}}

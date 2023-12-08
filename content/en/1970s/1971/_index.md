@@ -5,7 +5,7 @@ date: 2023-08-22T09:08:56+05:30
 draft: false
 images: [1971.webp]
 type: docs
-weight: 100000
+weight: 200000
 ---
 
 {{< fig src="/1970s/1971/1971.webp" alt="! Unix v1" >}}
