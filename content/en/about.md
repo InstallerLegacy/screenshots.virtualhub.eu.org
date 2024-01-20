@@ -26,7 +26,7 @@ Visit [VirtualHub Blog](https://virtualhub.eu.org/blog) to know more about the f
   </p>
 </div>
 
-VirtualHub Screenshots is part of VirtualHub group of websites. To lear about out other websites, see [this page](/other-websites).
+VirtualHub Screenshots is part of VirtualHub group of websites. To learn about out other websites, see [this page](/other-websites).
 
 We publish different screenshots of old operating systems and other software, so that you can live through the history of computing easily.
 

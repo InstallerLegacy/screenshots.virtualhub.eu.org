@@ -1,5 +1,5 @@
 ---
-title: "Start Here"
+title: "DEC PDP-15 Operating Systems"
 description: "Categorizing the tutorials on basis of type of OS."
 date: 2023-02-27T16:23:18+05:30
 lastmod: 2023-02-27T16:23:18+05:30
@@ -7,20 +7,8 @@ draft: false
 images: []
 ---
 
-## Unix
-
-- [Research Unix](/research-unix)
-
-## DEC Operating Systems
-
-- [PDP-7](/pdp7)
-- [PDP-8](/pdp8)
-- [PDP-11](/pdp11)
-- [PDP-15](/pdp15)
-
-## Other OSs
-
-- [Other OSs from 1970s](/other-1970s)
+- [! ADSS-15](/1970s/1970/adss-15/)
+- [! DOS-15](/1970s/1970/dos-15/)
 
 <div class="container justify-content-center text-center">
   <p>Come, chat with us:</p>
