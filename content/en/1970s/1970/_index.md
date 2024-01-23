@@ -27,6 +27,9 @@ There were four operating system of our interest which was released in the year 
       <div class="col-lg-5">
         <p><a class="btn btn-primary btn-lg px-4 mb-1" href="dos-15/" role="button">! DOS-15</a></p>
       </div>
+      <div class="col-lg-5">
+        <p><a class="btn btn-primary btn-lg px-4 mb-1" href="dos-11/" role="button">! DOS-11</a></p>
+      </div>
     </div>
   </div>
 </section>

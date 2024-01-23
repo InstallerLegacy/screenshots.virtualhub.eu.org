@@ -8,6 +8,7 @@ images: []
 ---
 
 - [! CAPS-11](/1970s/1970/caps-11/)
+- [! DOS-11](/1970s/1970/dos-11/)
 
 <div class="container justify-content-center text-center">
   <p>Come, chat with us:</p>
