@@ -1,6 +1,6 @@
 ---
 title: "1971"
-description: "There were two operating system of our interest which was released in the year 1971. They were:"
+description: "There were two operating system of our interest which were released in the year 1971. They were:"
 date: 2023-08-22T09:08:56+05:30
 draft: false
 images: [1971.webp]
@@ -10,7 +10,7 @@ weight: 200000
 
 {{< fig src="/1970s/1971/1971.webp" alt="! Unix v1" >}}
 
-There were two operating system of our interest which was released in the year 1971. They were:
+There were two operating system of our interest which were released in the year 1971. They were:
 
 <section class="section section-sm">
   <div class="container">

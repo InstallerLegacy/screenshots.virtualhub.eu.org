@@ -1,6 +1,6 @@
 ---
 title: "1968"
-description: "There was one operating systems in which we are interested which were released in the year 1968. It was called ! TSS/8."
+description: "There was one operating systems in which we are interested which was released in the year 1968. It was called ! TSS/8."
 date: 2023-08-20T09:08:56+05:30
 draft: false
 images: [1968.webp]
@@ -10,7 +10,7 @@ weight: 200000
 
 {{< fig src="/1960s/1968/1968.webp" alt="! TSS/8 BASIC-8" >}}
 
-There was one operating systems in which we are interested which were released in the year 1968. It was called ! TSS/8.
+There was one operating systems in which we are interested which was released in the year 1968. It was called ! TSS/8.
 
 <section class="section section-sm">
   <div class="container">
