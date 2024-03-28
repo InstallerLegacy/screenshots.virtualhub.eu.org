@@ -11,5 +11,5 @@ images: []
 
 <div class="container justify-content-center text-center">
   <p>Come, chat with us:</p>
-  <a href="https://chat.virtualhub.eu.org"><img src="https://discordapp.com/api/guilds/1176107431013646357/widget.png?style=banner2" alt="Discord Banner"/>
+  <a href="https://chat.virtualhub.eu.org"><img src="https://discordapp.com/api/guilds/1176107431013646357/widget.png?style=banner2" alt="Discord Banner"/></a>
 </div>
