@@ -21,6 +21,9 @@ There were two operating system of our interest which were released in the year 
       <div class="col-lg-5">
         <p><a class="btn btn-primary btn-lg px-4 mb-1" href="unix-v4/" role="button">! Unix v4</a></p>
       </div>
+      <div class="col-lg-5">
+        <p><a class="btn btn-primary btn-lg px-4 mb-1" href="caps-8/" role="button">! CAPS-8</a></p>
+      </div>
     </div>
   </div>
 </section>

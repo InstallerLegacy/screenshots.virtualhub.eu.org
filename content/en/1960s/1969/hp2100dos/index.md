@@ -12,6 +12,16 @@ weight: 310000
 
 ! HP 2100 DOS, as the name suggests, was an operating system for the HP 2100 computer. We can run using the SIMH emulator.
 
+<section class="section section-sm">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-5">
+        <p><a class="btn btn-primary btn-md px-4 mb-1" href="https://virtualhub.eu.org/1960s/1969/hp2100dos/simh/" role="button">! HP 2100 DOS on SIMH</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
 {{< gallery >}}
   {{< figure src="/1960s/1969/hp2100dos/hp2100dos.webp" alt="! HP 2100 DOS" caption="! HP 2100 DOS" >}}
 {{< /gallery >}}

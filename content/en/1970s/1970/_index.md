@@ -16,19 +16,22 @@ There were five operating system of our interest which were released in the year
   <div class="container">
     <div class="row justify-content-center text-center">
       <div class="col-lg-5">
-        <p><a class="btn btn-primary btn-lg px-4 mb-1" href="pdp7unix/" role="button">! PDP7 Unix</a></p>
+        <p><a class="btn btn-primary btn-md px-4 mb-1" href="pdp7unix/" role="button">! PDP7 Unix</a></p>
       </div>
       <div class="col-lg-5">
-        <p><a class="btn btn-primary btn-lg px-4 mb-1" href="caps-11/" role="button">! CAPS-11</a></p>
+        <p><a class="btn btn-primary btn-md px-4 mb-1" href="caps-11/" role="button">! CAPS-11</a></p>
       </div>
       <div class="col-lg-5">
-        <p><a class="btn btn-primary btn-lg px-4 mb-1" href="adss-15/" role="button">! ADSS-15</a></p>
+        <p><a class="btn btn-primary btn-md px-4 mb-1" href="adss-15/" role="button">! ADSS-15</a></p>
       </div>
       <div class="col-lg-5">
-        <p><a class="btn btn-primary btn-lg px-4 mb-1" href="dos-15/" role="button">! DOS-15</a></p>
+        <p><a class="btn btn-primary btn-md px-4 mb-1" href="dos-15/" role="button">! DOS-15</a></p>
       </div>
       <div class="col-lg-5">
-        <p><a class="btn btn-primary btn-lg px-4 mb-1" href="dos-11/" role="button">! DOS-11</a></p>
+        <p><a class="btn btn-primary btn-md px-4 mb-1" href="dos-11/" role="button">! DOS-11</a></p>
+      </div>
+      <div class="col-lg-5">
+        <p><a class="btn btn-primary btn-md px-4 mb-1" href="hp2100dos-m/" role="button">! HP 2100 DOS-M</a></p>
       </div>
     </div>
   </div>
