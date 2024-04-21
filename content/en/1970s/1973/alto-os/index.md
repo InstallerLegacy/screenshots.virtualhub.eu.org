@@ -16,10 +16,10 @@ The Xerox Alto OS, was the first GUI system. It was way ahead of its time. We ca
   <div class="container">
     <div class="row justify-content-center text-center">
       <div class="col-lg-5">
-        <p><a class="btn btn-primary btn-md px-4 mb-1" href="https://virtualhub.eu.org/1970s/1973/alto-os/contralto/" role="button">Alto OS on ContrAlto</a></p>
+        <p><a class="btn btn-primary btn-md px-4 mb-1" href="https://virtualhub.eu.org/1970s/1973/alto-os/contralto/" role="button">Alto OS on ContrAlto emulator</a></p>
       </div>
       <div class="col-lg-5">
-        <p><a class="btn btn-primary btn-md px-4 mb-1" href="https://virtualhub.eu.org/1970s/1973/alto-os/salto/" role="button">Alto OS on Salto</a></p>
+        <p><a class="btn btn-primary btn-md px-4 mb-1" href="https://virtualhub.eu.org/1970s/1973/alto-os/salto/" role="button">Alto OS on Salto emulator</a></p>
       </div>
     </div>
   </div>
