@@ -8,7 +8,7 @@ type: docs
 weight: 500000
 ---
 
-{{< fig src="/1970s/1975/1975.webp" alt="! Unix v5" >}}
+{{< fig src="/1970s/1975/1975.webp" alt="! Unix v6" >}}
 
 There was one operating system of our interest which was released in the year 1975. It was:
 
