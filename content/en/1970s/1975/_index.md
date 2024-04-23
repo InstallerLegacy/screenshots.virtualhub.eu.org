@@ -18,6 +18,9 @@ There was one operating system of our interest which was released in the year 19
       <div class="col-lg-5">
         <p><a class="btn btn-primary btn-md px-4 mb-1" href="rsts-11-v4b/" role="button">! RSTS-11 v4B</a></p>
       </div>
+      <div class="col-lg-5">
+        <p><a class="btn btn-primary btn-md px-4 mb-1" href="unix-v6/" role="button">! Unix v6</a></p>
+      </div>
     </div>
   </div>
 </section>
