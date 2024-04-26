@@ -8,7 +8,7 @@ type: docs
 weight: 600000
 ---
 
-{{< fig src="/1970s/1975/1975.webp" alt="! XVM/DOS" >}}
+{{< fig src="/1970s/1976/1976.webp" alt="! XVM/DOS" >}}
 
 There were two operating system of our interest which were released in the year 1976. They were:
 
