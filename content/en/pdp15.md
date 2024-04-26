@@ -9,6 +9,8 @@ images: []
 
 - [! ADSS-15](/1970s/1970/adss-15/)
 - [! DOS-15](/1970s/1970/dos-15/)
+- [! XVM/DOS](/1970s/1976/xvm-dos/)
+- [! XVM/RSX](/1970s/1976/xvm-rsx/)
 
 <div class="container justify-content-center text-center">
   <p>Come, chat with us:</p>
