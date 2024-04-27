@@ -26,6 +26,12 @@ type: docs
       <div class="col-lg-5">
         <p><a class="btn btn-primary btn-lg px-4 mb-1" href="1974/" role="button">1974</a></p>
       </div>
+      <div class="col-lg-5">
+        <p><a class="btn btn-primary btn-lg px-4 mb-1" href="1975/" role="button">1975</a></p>
+      </div>
+      <div class="col-lg-5">
+        <p><a class="btn btn-primary btn-lg px-4 mb-1" href="1976/" role="button">1976</a></p>
+      </div>
     </div>
   </div>
 </section>
