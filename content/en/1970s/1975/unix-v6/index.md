@@ -10,11 +10,11 @@ weight: 520000
 
 {{< load-photoswipe >}}
 
-! Unix v6 was an operating system for the DEC PDP-11 computer. It was developed by Bell Labs. It can be used on SIMH PDP-11 emulator. It was also ported to Interdata-32 computer, so we can use that port on SIMH Interdata-32 emulator.
+! Unix v6 was an operating system for the DEC PDP-11 computer. It was developed by Bell Labs. It can be used on SIMH PDP-11 emulator. It was also ported to Interdata 7/32 computer, so we can use that port on SIMH Interdata 7/32 emulator.
 
 {{< gallery >}}
   {{< figure src="/1970s/1975/unix-v6/unix-v6.webp" alt="! Unix v6" caption="! Unix v6" >}}
-  {{< figure src="/1970s/1975/unix-v6/unix-v6-id32.webp" alt="! Unix v6 Interdata-32 port" caption="! Unix v6 Interdata-32 port" >}}
+  {{< figure src="/1970s/1975/unix-v6/unix-v6-id32.webp" alt="! Unix v6 Interdata 7/32 port" caption="! Unix v6 Interdata 7/32 port" >}}
 {{< /gallery >}}
 
 Session Log of PDP-11 version:
@@ -147,7 +147,7 @@ tabs
 
 ```
 
-Session Log of Interdata-32 version:
+Session Log of Interdata 7/32 version:
 
 ```console
 
