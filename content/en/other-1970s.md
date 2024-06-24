@@ -13,6 +13,7 @@ images: []
 - [! HP 2100 DOS-III](/1970s/1973/hp2100dos-iii/)
 - [! HP 2100 RTE](/1970s/1973/hp2100rte/)
 - [! HP 2100 RTE-II](/1970s/1975/hp2100rte-ii/)
+- [! Nova DOS](/1970s/1970/nova-dos/)
 
 <div class="container justify-content-center text-center">
   <p>Come, chat with us:</p>
