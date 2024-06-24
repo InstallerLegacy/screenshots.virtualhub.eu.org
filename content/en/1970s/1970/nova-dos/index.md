@@ -1,5 +1,5 @@
 ---
-title: "! Nova DoS"
+title: "! Nova DOS"
 description: "! Nova DOS, as the name suggests, was an operating system for the Nova computer."
 date: 2024-06-24T09:08:56+05:30
 draft: false
