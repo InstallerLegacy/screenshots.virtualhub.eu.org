@@ -1,6 +1,6 @@
 ---
 title: "! Nova DOS"
-description: "! Nova DOS, as the name suggests, was an operating system for the Nova computer."
+description: "! Nova DOS, as the name suggests, was an operating system for the Data General Nova computer."
 date: 2024-06-24T09:08:56+05:30
 draft: false
 images: [nova-dos.webp]
@@ -10,7 +10,17 @@ weight: 170000
 
 {{< load-photoswipe >}}
 
-! Nova DOS, as the name suggests, was an operating system for the Nova computer. We can run using the Wild Hare Nova emulator.
+! Nova DOS, as the name suggests, was an operating system for the Data General Nova computer. We can run using the Wild Hare Nova emulator.
+
+<section class="section section-sm">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-5">
+        <p><a class="btn btn-primary btn-md px-4 mb-1" href="https://virtualhub.eu.org/1970s/1970/nova-dos/wh/" role="button">! Nova DOS on WH Nova emulator</a></p>
+      </div>
+    </div>
+  </div>
+</section>
 
 {{< gallery >}}
   {{< figure src="/1970s/1970/nova-dos/nova-dos.webp" alt="! Nova DOS" caption="! Nova DOS" >}}
