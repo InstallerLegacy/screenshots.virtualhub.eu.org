@@ -12,7 +12,6 @@ weight: 350000
 
 ! HP 2100 RTE, as the name suggests, was an operating system for the HP 2100 computer. We can run using the SIMH emulator.
 
-
 <section class="section section-sm">
   <div class="container">
     <div class="row justify-content-center text-center">
