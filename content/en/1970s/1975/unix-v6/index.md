@@ -11,6 +11,18 @@ weight: 520000
 {{< load-photoswipe >}}
 
 ! Unix v6 was an operating system for the DEC PDP-11 computer. It was developed by Bell Labs. It can be used on SIMH PDP-11 emulator. It was also ported to Interdata 7/32 computer, so we can use that port on SIMH Interdata 7/32 emulator.
+<section class="section section-sm">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-5">
+        <p><a class="btn btn-primary btn-md px-4 mb-1" href="https://virtualhub.eu.org/1970s/1975/unix-v6/simh-pdp11/" role="button">! Unix v6 on SIMH PDP-11</a></p>
+      </div>
+      <div class="col-lg-5">
+        <p><a class="btn btn-primary btn-md px-4 mb-1" href="https://virtualhub.eu.org/1970s/1975/unix-v6/simh-id32/" role="button">! Unix v6 on SIMH Interdata 7/32</a></p>
+      </div>
+    </div>
+  </div>
+</section>
 
 {{< gallery >}}
   {{< figure src="/1970s/1975/unix-v6/unix-v6.webp" alt="! Unix v6" caption="! Unix v6" >}}

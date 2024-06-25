@@ -12,6 +12,16 @@ weight: 510000
 
 ! RSTS-11 v4B was an operating system for the DEC PDP-11 computer. We can run using the SIMH emulator.
 
+<section class="section section-sm">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-5">
+        <p><a class="btn btn-primary btn-md px-4 mb-1" href="https://virtualhub.eu.org/1970s/1975/rsts-11-v4b/simh/" role="button">! RSTS-11 v4B on SIMH</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
 {{< gallery >}}
   {{< figure src="/1970s/1975/rsts-11-v4b/rsts-11-v4b.webp" alt="! RSTS-11 v4B" caption="! RSTS-11 v4B" >}}
 {{< /gallery >}}

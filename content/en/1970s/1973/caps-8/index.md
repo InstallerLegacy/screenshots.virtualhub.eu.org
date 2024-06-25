@@ -12,6 +12,16 @@ weight: 330000
 
 ! CAPS-8 was an operating system for the PDP-8 computer. We can run it on SIMH PDP-8 emulator.
 
+<section class="section section-sm">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-5">
+        <p><a class="btn btn-primary btn-md px-4 mb-1" href="https://virtualhub.eu.org/1970s/1973/caps-8/simh/" role="button">! CAPS-8 on SIMH</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
 {{< gallery >}}
   {{< figure src="/1970s/1973/caps-8/caps-8.webp" alt="! CAPS-8" caption="! CAPS-8" >}}
 {{< /gallery >}}

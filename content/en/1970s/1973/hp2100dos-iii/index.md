@@ -12,6 +12,16 @@ weight: 340000
 
 ! HP 2100 DOS-III, as the name suggests, was an operating system for the HP 2100 computer. We can run using the SIMH emulator.
 
+<section class="section section-sm">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-5">
+        <p><a class="btn btn-primary btn-md px-4 mb-1" href="https://virtualhub.eu.org/1970s/1973/hp2100dos-iii/simh/" role="button">! HP 2100 DOS-III on SIMH</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
 {{< gallery >}}
   {{< figure src="/1970s/1973/hp2100dos-iii/hp2100dos-iii.webp" alt="! HP 2100 DOS-III" caption="! HP 2100 DOS-III" >}}
 {{< /gallery >}}
