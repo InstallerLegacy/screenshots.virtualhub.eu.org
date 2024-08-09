@@ -1,6 +1,6 @@
 ---
 title: "1975"
-description: "There were three operating system of our interest which was released in the year 1975. They were:"
+description: "There were four operating system of our interest which was released in the year 1975. They were:"
 date: 2024-04-21T09:08:56+05:30
 draft: false
 images: [1975.webp]
@@ -10,7 +10,7 @@ weight: 500000
 
 {{< fig src="/1970s/1975/1975.webp" alt="! Unix v6" >}}
 
-There were three operating system of our interest which were released in the year 1975. They were:
+There were four operating system of our interest which were released in the year 1975. They were:
 
 <section class="section section-sm">
   <div class="container">
@@ -23,6 +23,9 @@ There were three operating system of our interest which were released in the yea
       </div>
       <div class="col-lg-5">
         <p><a class="btn btn-primary btn-md px-4 mb-1" href="hp2100rte-ii/" role="button">! HP 2100 RTE-II</a></p>
+      </div>
+      <div class="col-lg-5">
+        <p><a class="btn btn-primary btn-md px-4 mb-1" href="rt-11-v2/" role="button">! RT-11 v2</a></p>
       </div>
     </div>
   </div>
