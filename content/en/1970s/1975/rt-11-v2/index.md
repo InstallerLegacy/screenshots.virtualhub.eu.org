@@ -12,6 +12,16 @@ weight: 540000
 
 ! RT-11 v2 was an operating system for the DEC PDP-11 computer. We can run using the SIMH emulator.
 
+<section class="section section-sm">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-5">
+        <p><a class="btn btn-primary btn-md px-4 mb-1" href="https://virtualhub.eu.org/1970s/1975/rt-11-v2/simh/" role="button">! RT-11 v2 on SIMH</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
 {{< gallery >}}
   {{< figure src="/1970s/1975/rt-11-v2/rt-11-v2B.webp" alt="! RT-11 v2B" caption="! RT-11 v2B" >}}
   {{< figure src="/1970s/1975/rt-11-v2/rt-11-v2C.webp" alt="! RT-11 v2C" caption="! RT-11 v2C" >}}  
