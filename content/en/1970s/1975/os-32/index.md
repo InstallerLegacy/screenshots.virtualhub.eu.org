@@ -12,6 +12,16 @@ weight: 550000
 
 ! OS/32 was an operating system for the Interdata 32-bit computers. It can be used on SIMH emulator.
 
+<section class="section section-sm">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-5">
+        <p><a class="btn btn-primary btn-md px-4 mb-1" href="https://virtualhub.eu.org/1970s/1975/os-32/simh/" role="button">! OS/32 on SIMH</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
 {{< gallery >}}
   {{< figure src="/1970s/1975/os-32/os-32.webp" alt="! OS/32" caption="! OS/32" >}}
 {{< /gallery >}}
