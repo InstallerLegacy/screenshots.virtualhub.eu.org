@@ -12,6 +12,16 @@ weight: 610000
 
 ! XVM/DOS and ! XVM/RSX were operating systems for the DEC PDP-15 computer. We can run them using the SIMH emulator.
 
+<section class="section section-sm">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-5">
+        <p><a class="btn btn-primary btn-sm px-4 mb-1" href="https://virtualhub.eu.org/1970s/1976/xvm-dos-rsx/simh/" role="button">! XVM/DOS and XVM/RSX on SIMH</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
 {{< gallery >}}
   {{< figure src="/1970s/1976/xvm-dos-rsx/xvm-dos.webp" alt="! XVM/DOS" caption="! XVM/DOS" >}}
   {{< figure src="/1970s/1976/xvm-dos-rsx/xvm-rsx.webp" alt="! XVM/RSX" caption="! XVM/RSX" >}}
