@@ -22,6 +22,7 @@ images: []
 
 - [! Nova DOS](/1970s/1970/nova-dos/)
 - [! Nova RDOS](/1970s/1972/nova-rdos/)
+- [! Data General AOS](/1970s/1976/dg-aos/)
 
 <div class="container justify-content-center text-center">
   <p>Come, chat with us:</p>
