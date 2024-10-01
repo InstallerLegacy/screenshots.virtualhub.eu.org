@@ -12,6 +12,16 @@ weight: 620000
 
 ! Data General AOS was an operating systems for the Data General Nova computer. We can run it using the WildHare Nova emulator.
 
+<section class="section section-sm">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-5">
+        <p><a class="btn btn-primary btn-sm px-4 mb-1" href="https://virtualhub.eu.org/1970s/1976/dg-aos/wh/" role="button">! Data General AOS on Wild Hare Emulator</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
 {{< gallery >}}
   {{< figure src="/1970s/1976/dg-aos/aos.webp" alt="! Data General AOS" caption="! Data General AOS" >}}
 {{< /gallery >}}
