@@ -5,7 +5,7 @@ disableHugoGeneratorInject = true
 enableEmoji = true
 enableGitInfo = true
 enableRobotsTXT = true
-rssLimit = 10
+disableKinds = ["RSS"]
 
 # Multilingual
 defaultContentLanguage = "en"
@@ -14,8 +14,8 @@ disableLanguages = ["de", "nl"]
 
 # add redirects/headers
 [outputs]
-home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]
-section = ["HTML", "RSS", "SITEMAP"]
+home = ["HTML", "REDIRECTS", "HEADERS"]
+section = ["HTML", "SITEMAP"]
 
 # remove .{ext} from text/netlify
 [mediaTypes."text/netlify"]
